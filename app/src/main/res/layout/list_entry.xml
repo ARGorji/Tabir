@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="clip_horizontal|right"
+    android:orientation="horizontal"
+    android:padding="7dip"
+    android:background="@drawable/tabir_item_layout"
+     >
+
+    
+   <TextView
+        android:id="@+id/Code_entry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Code"
+        android:visibility="gone"
+         />
+
+    <TextView
+        android:id="@+id/ShortMeaning_entry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="Meaning"
+        android:textSize="16sp"
+        android:singleLine="true"
+        android:layout_weight="1"
+         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:id="@+id/Word_entry"
+        android:layout_gravity="right"
+        android:gravity="right"
+        android:text="Word"
+        android:textSize="16sp"
+        android:paddingLeft="5dp"
+         />
+    
+
+    
+    
+</LinearLayout>

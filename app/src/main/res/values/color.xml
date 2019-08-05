@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="BlackGray">#111111</color>
+    
+    <color name="tabir_list_background_pressed_start">#DCF4F6</color>
+    <color name="tabir_list_background_pressed_end">#84EDF4</color>
+    <color name="tabir_list_background">#D3F7E7</color>
+    
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="translucent">#80FFFFFF</color>
+    <color name="transparentgray">#C0333333</color>
+    <color name="lightblue">#D3E6FF</color>
+    <color name="LightGray">#F4F3F3</color>
+    <color name="DarkGray">#767676</color>
+    
+    <color name="ColorPrimary">#B11919</color>
+    <color name="ColorPrimaryDark">#900E0E</color>
+    <color name="MainAppBackColor">#ffffff</color>
+    
+ 	<color name="colorPrimary">#B11919</color>
+    <color name="colorPrimaryDark">#900E0E</color>
+    <color name="colortextColorPrimary">#FFFFFF</color>
+    <color name="colortextColorSecondary">#000000</color>
+    <color name="actionMenuTextColor">#000000</color>   
+    
+    <color name="BGCaption">#DEE9FF</color>
+    
+</resources>
